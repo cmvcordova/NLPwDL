@@ -1,0 +1,12 @@
+rdkit-pypi
+gdown
+torch==1.7.0
+filelock
+sklearn
+pytorch-lightning==1.2.2
+gin
+gin-config
+pandas
+optuna
+torchinfo
+PyTDC
