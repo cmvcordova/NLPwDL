@@ -1,7 +1,7 @@
 # NLPwDL
 Two open tasks for the SS22 NLPwDL course @ JKU
 
-##### assignment#1
+#### assignment#1
 Loading the collection and preprocessing the data (2 point).
 
 - [x] Loading the collection and preprocessing the data (2 point).
@@ -17,13 +17,11 @@ Loading the collection and preprocessing the data (2 point).
 - [ ] report discussion  (2 points)
 
 
-write here to document the steps above as needed. 
-
+##### the environment
 ~~~
 python3.8 -m pip install virtualenv
 python3.8 -m virtualenv venvs/nlp
 pip install -r requirements.txt
 add from twisted.internet.protocol import Protocol to src/huggingmolecules/featurization/featurization_api.py
-~~~
-
 git clone hugginmolecules and install it.
+~~~
