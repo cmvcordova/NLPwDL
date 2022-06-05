@@ -130,5 +130,11 @@ dmypy.json
 
 
 # added
-local/
-
+assignment#1/local/
+assignment#2/local/
+"*data/*"
+assignment#1/data/
+assignment#2/data/
+.idea/
+*.txt
+*venv*
