@@ -135,6 +135,7 @@ assignment#2/local/
 "*data/*"
 assignment#1/data/
 assignment#2/data/
+assignment#2/tokenizer.json
 .idea/
 *.txt
 *venv*
